@@ -2,6 +2,7 @@
 
 TypeScript × Next.js × Tailwind CSSで作ったポケモン図鑑アプリ🧑‍💻
 
+
 ## 機能
 
 - ポケモン100体の一覧表示
